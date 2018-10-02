@@ -1,0 +1,1 @@
+package com.example.root.movieuiux.widget;public class StackWidgetService {}
